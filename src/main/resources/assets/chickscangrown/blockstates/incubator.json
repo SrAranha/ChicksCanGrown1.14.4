@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "facing=north": { "model": "chickscangrown:block/incubator" },
+    "facing=south": { "model": "chickscangrown:block/incubator", "y": 180 },
+    "facing=west": { "model": "chickscangrown:block/incubator", "y": 270 },
+    "facing=east": { "model": "chickscangrown:block/incubator", "y": 90 },
+    "facing=up": { "model": "chickscangrown:block/incubator", "x": -90 },
+    "facing=down": { "model": "chickscangrown:block/incubator", "x": 90}
+  }
+}

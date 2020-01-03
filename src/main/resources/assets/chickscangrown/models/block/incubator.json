@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "particle": "chickscangrown:block/incubator_side",
+    "up": "chickscangrown:block/incubator_up",
+    "down": "chickscangrown:block/incubator_down",
+    "east": "chickscangrown:block/incubator_side",
+    "west": "chickscangrown:block/incubator_side",
+    "north": "chickscangrown:block/incubator_front",
+    "south": "chickscangrown:block/incubator_side"
+  }
+}

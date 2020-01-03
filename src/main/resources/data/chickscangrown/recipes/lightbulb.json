@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " p ",
+    "pgp",
+    " i "
+  ],
+  "key": {
+    "p": {
+      "item": "minecraft:glass_pane"
+    },
+    "g": {
+      "item": "minecraft:glowstone_dust"
+    },
+    "i": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "result": {
+    "item": "chickscangrown:lightbulb"
+  }
+}

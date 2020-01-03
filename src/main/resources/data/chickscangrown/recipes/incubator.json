@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ggg",
+    "www",
+    "iii"
+  ],
+  "key": {
+    "g": {
+      "item": "minecraft:glass"
+    },
+    "w": {
+      "tag": "minecraft:wool"
+    },
+    "i": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "result": {
+    "item": "chickscangrown:incubator"
+  }
+}
